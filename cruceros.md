@@ -93,42 +93,42 @@ La información que se encuentra detallada es sobre; fecha del viaje, nacionalid
           "nombreDeAtributo": "visits_amount"
       },
       {
-          "descripcion": "Gasto para total, el valor de este gasto es medido en Dólares Americanos",
+          "descripcion": "Gasto total, el valor de este gasto es medido en Dólares Americanos",
           "informacionAdicional": "",
           "tipoDeDato": "Numeric",
           "recursoRelacionado": "",
           "nombreDeAtributo": "total_expenses"
       },
       {
-          "descripcion": "Gasto para Tours, el valor de este gasto es medido en Dólares Americanos",
+          "descripcion": "Gasto paenra Tours, el valor de este gasto es medido en Dólares Americanos",
           "informacionAdicional": "",
           "tipoDeDato": "Numeric",
           "recursoRelacionado": "",
           "nombreDeAtributo": "tours_expenses"
       },
       {
-          "descripcion": "Gasto para la Alimentación, el valor de este gasto es medido en Dólares Americanos",
+          "descripcion": "Gasto en Alimentación, el valor de este gasto es medido en Dólares Americanos",
           "informacionAdicional": "",
           "tipoDeDato": "Numeric",
           "recursoRelacionado": "",
           "nombreDeAtributo": "feed_expenses"
       },
       {
-          "descripcion": "Gasto para el Transporte, el valor de este gasto es medido en Dólares Americanos",
+          "descripcion": "Gasto en Transporte, el valor de este gasto es medido en Dólares Americanos",
           "informacionAdicional": "",
           "tipoDeDato": "Numeric",
           "recursoRelacionado": "",
           "nombreDeAtributo": "transport_expenses"
       },
       {
-          "descripcion": "Gasto para Shopping, el valor de este gasto es medido en Dólares Americanos",
+          "descripcion": "Gasto en compras, el valor de este gasto es medido en Dólares Americanos",
           "informacionAdicional": "",
           "tipoDeDato": "Numeric",
           "recursoRelacionado": "",
           "nombreDeAtributo": "shopping_expenses"
       },
       {
-          "descripcion": "Gasto para Otros, el valor de este gasto es medido en Dólares Americanos",
+          "descripcion": "Otros gastos, el valor de este gasto es medido en Dólares Americanos",
           "informacionAdicional": "",
           "tipoDeDato": "Numeric",
           "recursoRelacionado": "",
